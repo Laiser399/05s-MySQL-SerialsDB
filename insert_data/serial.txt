@@ -1,0 +1,80 @@
+id, name, official_site, mark
+1, "Карнивал Роу", "https://www.amazon.com/dp/B07S33VDYB/", 9.2
+2, "Почему женщины убивают", "https://www.cbs.com/shows/why-women-kill/", 9.0
+3, "Ассасины Ву", "https://www.netflix.com/ru/title/80230293", 8.3
+4, "90210", "https://www.fox.com/bh90210/", 7.2
+5, "Пенниуорт", "/series/?type=search&r=26&s=2&t=0", 8.9
+6, "Пацаны", "https://www.amazon.com/dp/B07QQQ52B3", 9.5
+7, "Другая жизнь", "https://www.netflix.com/ru/title/80236236", 7.2
+8, "Пандора", "https://www.cwtv.com/shows/pandora/", 6.7
+9, "Ладья", "https://www.starz.com/series/44140/episodes/info", 8.3
+10, "Гранд отель", "https://abc.go.com/shows/grand-hotel", 8.2
+11, "Город на холме", "https://www.sho.com/city-on-a-hill", 9.0
+12, "Слишком стар, чтобы умереть молодым", "https://www.amazon.com/Too-Old-to-Die-Young/dp/B07Q58SBHS", 7.0
+13, "Носферату", "https://www.amc.com/shows/nos4a2", 8.4
+14, "Предприятие «Вечная благодать»", "https://www.epix.com/series/perpetual-grace-ltd", 8.1
+15, "Болотная тварь", "https://www.dcuniverse.com/swamp-thing/", 8.8
+16, "Благие знамения", "https://www.amazon.com/gp/video/detail/B07FMHTRFD", 9.2
+17, "Зона заражения", "https://www.nationalgeographic.com/tv/the-hot-zone/", 8.9
+18, "Уловка-22", "https://www.hulu.com/series/catch-22-858b02a2-61de-4597-aaa0-7e3f12b54673", 9.1
+19, "Общество", "https://www.netflix.com/ru/title/80197989", 7.1
+20, "Сердце", "https://www.netflix.com/ru/title/80210361", 7.7
+21, "Черное лето", "https://www.netflix.com/ru/title/80198988", 7.4
+22, "Фосси/Вердон", "https://www.fxnowcanada.ca/shows/fosse-verdon/", 6.4
+23, "Воин", "https://www.cinemax.com/warrior", 9.4
+24, "Реальные упыри", "https://www.fxnowcanada.ca/shows/what-we-do-in-the-shadows/", 8.2
+25, "Чужой: Антология", "https://www.alienuniverse.com/", 7.2
+26, "Притворство", "https://www.hulu.com/series/the-act-8cc910fe-b59e-46a5-9966-16c4e0ed208d", 8.1
+27, "Любовь, смерть и роботы", "https://www.netflix.com/ru/title/80174608", 8.6
+28, "МатьОтецСын", "https://www.bbc.co.uk/programmes/m00034g9", 7.5
+29, "Враг внутри", "https://www.nbc.com/the-enemy-within", 8.5
+30, "Виски Кавалер", "https://abc.go.com/shows/whiskey-cavalier", 8.5
+31, "Комендантский час", "https://www.sky.com/watch/channel/sky-one", 7.7
+32, "Роковой патруль", "https://www.dcuniverse.com/coming-soon/", 8.7
+33, "Академия «Амбрелла»", "https://www.netflix.com/ru/title/80186863", 9.0
+34, "Ханна", "https://www.thetvdb.com/series/hanna", 8.8
+35, "Матрешка", "https://www.netflix.com/ru/title/80211627", 8.1
+36, "Имя мне — ночь", "https://www.tntdrama.com/i-am-the-night", 8.4
+37, "Королевство", "https://www.netflix.com/ru/title/80180171", 8.9
+38, "Академия смерти", "https://www.syfy.com/deadlyclass", 8.8
+39, "Розуэлл, Нью-Мексико", "https://www.cwtv.com/shows/roswell-new-mexico/", 7.1
+40, "Перерождение", "https://www.fox.com/the-passage/article/about-the-show-5af987d55273be002b0273fd/", 8.6
+41, "Половое воспитание", "https://www.netflix.com/ru/title/80197526", 8.9
+42, "Проект «Синяя книга»", "https://www.history.com/shows/project-blue-book", 9.1
+43, "Отверженные", "https://www.bbc.co.uk/programmes/p06t60pl", 8.6
+44, "Убийства по алфавиту", "https://www.bbc.co.uk/programmes/b0bxbvtl", 8.6
+45, "Страна приливов", "https://www.netflix.com/ru/title/80191239", 8.0
+46, "Летящие сквозь ночь", "https://www.syfy.com/nightflyers", 8.0
+47, "Побег из Даннеморы", "https://www.sho.com/escape-at-dannemora", 8.8
+48, "Барыги: Мексика", "https://www.netflix.com/ru/title/80997085", 9.4
+49, "Ориджин", "https://www.youtube.com/channel/UCYiXt-Knr5QKMWm9DLFlV3Q", 8.5
+50, "Возвращение", "https://www.amazon.com/dp/B07FNWYY2L", 7.6
+51, "Расскажи мне сказку", "https://www.cbs.com/shows/tell-me-a-story/", 8.3
+52, "Маленькая барабанщица", "https://www.amc.com/shows/the-little-drummer-girl", 8.2
+53, "Легкий, как перышко", "https://www.hulu.com/press/show/light-as-a-feather/", 6.8
+54, "Призраки дома на холме", "https://www.netflix.com/ru/title/80189221/", 9.2
+55, "Манифест", "https://www.nbc.com/manifest", 8.6
+56, "Маньяк", "https://www.netflix.com/ru/title/80124522", 8.3
+57, "Первые", "https://www.hulu.com/series/the-first-54d5d84a-95e6-4f0e-b22b-a3cec5fd1242", 6.9
+58, "Невинные", "https://www.netflix.com/ru/title/80184405", 5.7
+59, "Аванпост", "http://www.cwtv.com/shows/the-outpost", 7.8
+60, "Странный ангел", "https://www.cbs.com/shows/strange-angel/", 8.1
+61, "Плащ и Кинжал", "https://freeform.go.com/shows/marvels-cloak-and-dagger", 8.3
+62, "Кондор", "http://start.att.net/exclusive/audience/condor", 9.0
+63, "Грезы", "https://www.nbc.com/reverie?nbc=1", 8.5
+64, "Патрик Мелроуз", "http://www.sho.com/patrick-melrose", 8.3
+65, "Омут", "https://www.netflix.com/title/80240177", 9.0
+66, "Затерянные в космосе", "https://www.netflix.com/ru/title/80104198", 8.3
+67, "Убивая Еву", "http://www.bbcamerica.com/shows/killing-eve", 8.7
+68, "Город и город", "http://www.bbc.co.uk/programmes/p061bd5l", 7.9
+69, "Переправа", "/series/?type=search&r=29&s=2&t=0", 9.1
+70, "Испытание невиновностью", "http://www.bbc.co.uk/programmes/b09ytrgg", 8.5
+71, "Сирена", "https://freeform.go.com/shows/siren", 8.7
+72, "Террор", "http://www.amc.com/shows/the-terror", 8.9
+73, "Траст", "http://www.fxnetworks.com/shows/trust", 8.2
+74, "Константин: Город демонов", "http://www.cwseed.com/shows/constantine/", 8.7
+75, "Криптон", "http://www.syfy.com/krypton", 8.7
+76, "Призрачная башня", "https://www.hulu.com/the-looming-tower", 8.5
+77, "Звездные врата: Начало", "https://www.stargatecommand.co/", 4.7
+78, "Видоизмененный углерод", "https://www.netflix.com/ru/title/80097140", 9.4
+79, "Алиенист", "http://www.tntdrama.com/shows/the-alienist", 9.0
